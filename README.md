@@ -1,16 +1,5 @@
 # FILE-INTEGRITY-CHECKER
 
-*COMPANY* : CODTECH IT SOLUTIONS PRIVATE LIMITED
-
-*NAME* : GNANAVI S
-
-*INTERN ID* : CTIS6494
-
-*DOMAIN* : CYBER SECURITY & ETHICAL HACKING
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SANTHOSH
 
 ##  Description
 In cybersecurity, one of the most important things to monitor is whether files have been tampered with. Attackers who gain access to a system often modify critical files — such as configuration files, logs, or executables — to maintain access or cover their tracks. A file integrity checker is a tool that detects these kinds of unauthorized changes by comparing the current state of a file against a previously stored record of what it looked like.
